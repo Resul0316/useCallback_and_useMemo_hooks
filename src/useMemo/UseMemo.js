@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react'
 
-//*ehn you want to make a slowFunction and we don't want to make all in the slowFunction we use 
+//*when you want to make a slowFunction and we don't want to make all in the slowFunction we use 
 //*  useMemo to memorize the function that we want to use in slowFunction
 
 
